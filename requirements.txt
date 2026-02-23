@@ -1,0 +1,3 @@
+openbb==4.*
+python-dotenv==1.*
+groq==0.*
